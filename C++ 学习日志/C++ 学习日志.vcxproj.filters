@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="extern.cpp">
+    <ClCompile Include="print.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="print.cpp">
+    <ClCompile Include="externAndstatic.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
